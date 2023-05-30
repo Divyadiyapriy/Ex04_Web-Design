@@ -26,10 +26,48 @@
   Open the file in a browser and verify the output.
   
 ## CODE
-
+```
+<html>
+<body>
+<h1>Horticulture</h1>
+<a href="https://www.canr.msu.edu/hrt/about-us/horticulture_is#:~:text=Horticulture%20is%20the%20science%20and,Decorative%20indoor%20plants%20and">
+<img src="horticulture.jpeg"
+width="200" height="200"></a>
+<br>
+<br>
+<h1>Irrigation</h1>
+<a href="https://en.wikipedia.org/wiki/Irrigation#:~:text=Irrigation%20(also%20referred%20to%20as,many%20cultures%20around%20the%20world.">
+<img src="irrigation.jpeg"  width="200" height="200"></a>
+<br>
+<br>
+<h1>Apiculture</h1>
+<a href="https://www.nal.usda.gov/animal-health-and-welfare/beekeeping#:~:text=Apiculture%20%2D%20the%20maintenance%20of%20honeybees,of%20bees%20to%20other%20beekeepers.">
+<img src="apiculture.jpeg"
+width="200" height="200"></a>
+<br>
+<br>
+<br>
+<h1>Organic Fertilizer</h1>
+<a href="https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/organic-
+fertilizer#:~:text=Organic%20fertilizer%20refers%20to%20those,digestate%20and%20other%20bio%2Dwastes.">
+<img src="organic fertiliser.jpeg"
+width="200" height="200"></a>
+<br>
+<br>
+<br>
+<h1>Harvester</h1>
+<a href="https://www.tractorjunction.com/tractor-combine-harvesters/#:~:text=Harvester%20is%20a%20multipurpose%20farming,helps%20to%20generate%20higher%20income.">
+<img src="harvester.jpeg"
+width="200" height="200"></a>
+</body>
+</html>
+```
 
 ## OUTPUT
 
+![dd-1](https://github.com/Divyadiyapriy/Ex04_Web-Design/assets/127817268/46d8e535-579e-4398-9256-d7dc1b397bea)
+![dd-2](https://github.com/Divyadiyapriy/Ex04_Web-Design/assets/127817268/c4fa3d36-9cb2-41a6-a802-c09cd580a80d)
+![dd-3](https://github.com/Divyadiyapriy/Ex04_Web-Design/assets/127817268/0cec6f47-4401-46fe-87e3-c7ba8d01013e)
 
 ## RESULT
  Images as hyperlinks is implemented successfully.
